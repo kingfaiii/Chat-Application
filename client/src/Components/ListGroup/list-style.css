@@ -1,0 +1,11 @@
+#sidebar {
+     float: left;
+     overflow-y: auto;
+     height: 580px !important;
+}
+
+#sidebar > .sidebar-header {
+     font-weight: bold;
+     font-size: 2rem;
+     margin-left: 30px;
+}

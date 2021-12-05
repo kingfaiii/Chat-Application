@@ -1,0 +1,10 @@
+#index-route {
+     width: 100%;
+     height: inherit;
+}
+
+#index-body {
+     display: grid;
+     grid-template-columns: 410px 1fr;
+     height: inherit;
+}

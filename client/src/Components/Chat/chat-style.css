@@ -1,0 +1,8 @@
+#chat-component {
+     float: right;
+     height: inherit;
+}
+
+#chat-component > .input-group {
+     bottom: 1%;
+}
